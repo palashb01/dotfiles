@@ -1,0 +1,811 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/simulator/src/circuit.js" />
+              <entry key="line" value="134" />
+            </attributes>
+            <option name="description" value="scopeList" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="cv-frontend-vue" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/TabsBar/TabsBar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Extra.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15990">
+              <caret line="563" column="53" selection-start-line="563" selection-start-column="53" selection-end-line="563" selection-end-column="53" />
+              <folding>
+                <element signature="e#22895#22963#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simulator/src/setup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/state.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/DialogBox/OpenOffline.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Panels/PropertiesPanel/ModuleProperty/ProjectProperty/ProjectProperty.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2760">
+              <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simulator/src/circuit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#413#458#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/SimulatorStore.ts" preview="true">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1672882117485" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="29" lastUsed="1673203891608" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="2" lastUsed="1673035842261" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="10" lastUsed="1673203994998" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="14" lastUsed="1672954783442" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="61" lastUsed="1673421768853" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="15" lastUsed="1672859537505" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1672961627255" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="2" lastUsed="1672880760405" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="5" lastUsed="1673203911369" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="20" lastUsed="1673421768904" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="132" lastUsed="1673421768733" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="3" lastUsed="1672859537667" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="1" lastUsed="1672396261960" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Report an Issue</find>
+      <find>ElementsPanel</find>
+      <find>.issue</find>
+      <find>reportIssue</find>
+      <find>OpenPrompt</find>
+      <find>issue</find>
+      <find>check</find>
+      <find>generateSaveData</find>
+      <find>draggable-panel-css</find>
+      <find>z-index: 80</find>
+      <find>.dropdown-menu</find>
+      <find>.draggable-panel-css</find>
+      <find>z-index</find>
+      <find>.timing-diagram-panel</find>
+      <find>z-index: 100</find>
+      <find>Keybinding Preference</find>
+      <find>Download as Image</find>
+      <find>console.log</find>
+      <find>computed</find>
+      <find>customShortcutDialog</find>
+      <find>keyOptions</find>
+      <find>override</find>
+      <find>checkRestricted</find>
+      <find>warnOverride</find>
+      <find>console</find>
+      <find>inputArr</find>
+      <find>edit-icon</find>
+      <find>navbarLogo</find>
+      <find>logo</find>
+      <find>Untitled-Circuit</find>
+      <find>unti</find>
+      <find>tabsCloseButton</find>
+      <find>scopeList</find>
+      <find>circuitToBeDeleted</find>
+      <find>create_circuit</find>
+      <find>dialogue box</find>
+      <find>SimulatorStore</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>OpenReportIssue</replace>
+      <replace>z-index: 100</replace>
+      <replace>z-index: 80</replace>
+      <replace>delete_circuit</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/simulator/spec/circuits</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+      <dir>$PROJECT_DIR$/src/components/Navbar/User</dir>
+      <dir>$PROJECT_DIR$/src/components/Panels/PropertiesPanel/ModuleProperty</dir>
+      <dir>$PROJECT_DIR$/src/components/Panels/PropertiesPanel/LayoutProperty</dir>
+      <dir>$PROJECT_DIR$/src/components/Panels/ElementsPanel</dir>
+      <dir>$PROJECT_DIR$/src/styles/css/5-layout</dir>
+      <dir>$PROJECT_DIR$/src/components/Dropdown</dir>
+      <dir>$PROJECT_DIR$/src/simulator/vendor</dir>
+      <dir>$PROJECT_DIR$/src/styles/css</dir>
+      <dir>$PROJECT_DIR$/src/simulator/src/hotkey_binder/model</dir>
+      <dir>$PROJECT_DIR$/src/components/TabsBar</dir>
+      <dir>$PROJECT_DIR$/src/components/DialogBox</dir>
+      <dir>$PROJECT_DIR$/src/simulator/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/simulator/src/data/save.js" />
+      <option value="$PROJECT_DIR$/src/components/prompts/reportIssue.vue" />
+      <option value="$PROJECT_DIR$/src/components/Navbar/Hamburger/Hamburger.vue" />
+      <option value="$PROJECT_DIR$/src/components/Panels/Shared/DropdownSelect.vue" />
+      <option value="$PROJECT_DIR$/src/components/Navbar/User/User.vue" />
+      <option value="$PROJECT_DIR$/src/components/Navbar/NavbarLinks/NavbarLink/NavbarLink.vue" />
+      <option value="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" />
+      <option value="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" />
+      <option value="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" />
+      <option value="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" />
+      <option value="$PROJECT_DIR$/src/components/Panels/PropertiesPanel/ModuleProperty/ModuleProperty.vue" />
+      <option value="$PROJECT_DIR$/src/components/Panels/PropertiesPanel/LayoutProperty/LayoutProperty.vue" />
+      <option value="$PROJECT_DIR$/src/simulator/vendor/jquery-ui.min.css" />
+      <option value="$PROJECT_DIR$/src/styles/css/embed.css" />
+      <option value="$PROJECT_DIR$/src/styles/css/5-layout/simulator.scss" />
+      <option value="$PROJECT_DIR$/src/simulator/src/ux.js" />
+      <option value="$PROJECT_DIR$/src/styles/css/UX.css" />
+      <option value="$PROJECT_DIR$/src/styles/css/main.stylesheet.css" />
+      <option value="$PROJECT_DIR$/.vscode/extensions.json" />
+      <option value="$PROJECT_DIR$/src/components/Navbar/Navbar.css" />
+      <option value="$PROJECT_DIR$/notes.js" />
+      <option value="$PROJECT_DIR$/src/components/Panels/ElementsPanel/ElementsPanel.vue" />
+      <option value="$PROJECT_DIR$/src/simulator/src/hotkey_binder/view/panel.ui.js" />
+      <option value="$PROJECT_DIR$/src/components/DialogBox/Themes/ApplyThemes.vue" />
+      <option value="$PROJECT_DIR$/src/components/Dropdown/DropDown.vue" />
+      <option value="$PROJECT_DIR$/src/styles/css/shortcut.panel.css" />
+      <option value="$PROJECT_DIR$/src/components/DialogBox/CustomShortcut.vue" />
+      <option value="$PROJECT_DIR$/src/components/Panels/PropertiesPanel/PropertiesPanel.vue" />
+      <option value="$PROJECT_DIR$/src/store/SimulatorStore/state.ts" />
+      <option value="$PROJECT_DIR$/src/components/Panels/PropertiesPanel/ModuleProperty/ProjectProperty/ProjectProperty.vue" />
+      <option value="$PROJECT_DIR$/src/components/Extra.vue" />
+      <option value="$PROJECT_DIR$/src/components/TabsBar/TabsBar.vue" />
+      <option value="$PROJECT_DIR$/src/simulator/src/circuit.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="29" lastUsage="1673203891608" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="15" lastUsage="1672954783442" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="61" lastUsage="1673421768853" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="15" lastUsage="1672859537505" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="2" lastUsage="1672880760405" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="5" lastUsage="1673203911369" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1672961627255" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="20" lastUsage="1673421768904" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="132" lastUsage="1673421768733" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1672859537667" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Panels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Panels" type="462c0819:PsiDirectoryNode" />
+              <item name="PropertiesPanel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Panels" type="462c0819:PsiDirectoryNode" />
+              <item name="PropertiesPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="ModuleProperty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Panels" type="462c0819:PsiDirectoryNode" />
+              <item name="PropertiesPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="ModuleProperty" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectProperty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-frontend-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-frontend-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="TabsBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cv-frontend-vue-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94453000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19505209" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="VcsChanges" order="3" weight="0.32994792" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.20128585" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.20128585" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.32987142" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="7" weight="0.25" />
+      <window_info anchor="right" id="RESTKit" order="8" show_stripe_button="false" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19505209" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="VcsChanges" order="3" weight="0.32994792" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.20128585" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.20128585" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.32987142" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="7" weight="0.25" />
+      <window_info anchor="right" id="RESTKit" order="8" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Find</value>
+      <value>Terminal</value>
+      <value>VcsChanges</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="199" width="681" height="720" key="#Notifications" timestamp="1672318056540">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="614" y="199" width="681" height="720" key="#Notifications/0.32.1920.1048@0.32.1920.1048" timestamp="1672318056540" />
+    <state x="736" y="184" width="438" height="751" key="#Vue_template" timestamp="1672964065194">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="736" y="184" width="438" height="751" key="#Vue_template/0.32.1920.1048@0.32.1920.1048" timestamp="1672964065194" />
+    <state x="693" y="307" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1672882174666">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="307" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1672882174666" />
+    <state x="723" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1672668481073">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="723" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1672668481073" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom" timestamp="1672262776950">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1672262776950" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center" timestamp="1672262776950">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1672262776950" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left" timestamp="1672262776950">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1672262776950" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right" timestamp="1672262776950">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1672262776950" />
+    <state x="543" y="299" width="824" height="521" key="IDE.errors.dialog" timestamp="1672333242533">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="543" y="299" width="824" height="521" key="IDE.errors.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1672333242533" />
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor" timestamp="1672322994630">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1672322994630" />
+    <state x="536" y="244" width="752" height="598" key="find.popup" timestamp="1673394394746">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="536" y="244" width="752" height="598" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1673394394746" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1672398915353">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1672398915353" />
+    <state x="623" y="253" width="696" height="713" key="search.everywhere.popup" timestamp="1673392191593">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="253" width="696" height="713" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1673392191593" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.vscode">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extension.json" />
+    <entry file="file://$PROJECT_DIR$/src/styles/css/main.stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7140">
+          <caret line="238" column="1" selection-start-line="238" selection-start-column="1" selection-end-line="238" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/Hamburger/Hamburger.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/NavbarLinks/NavbarLinks.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/extensions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/vendor/jquery-ui.min.css" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/css/UX.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="768" lean-forward="true" selection-start-line="768" selection-end-line="768" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/vuetify.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/actions.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/documentation.txt" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="274" column="12" selection-start-line="274" selection-start-column="12" selection-end-line="274" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/canvas2svg.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="173" column="8" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-core/LICENSE" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-core/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/getters.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-core/dist/runtime-core.cjs.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/model/shortcuts.plugin.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/model/addShortcut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/model/normalize/normalizer.plugin.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.js" />
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/img/edit_icon.png" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/model/actions.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="117" column="11" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/view/panel.ui.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Panels/ElementsPanel/ElementsPanel.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#3785#3836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DialogBox/Themes/ApplyThemes.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4770">
+          <caret line="166" column="11" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dropdown/DropDown.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/hotkey_binder/model/utils.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/Adder.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ControlledInverter.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/edit_icon.png" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/Navbar.css" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ALU.png" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/circuitverse_logo.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DialogBox/edit_icon.png" preview="true" />
+    <entry file="file://$PROJECT_DIR$/src/components/DialogBox/CustomShortcut.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2677">
+          <caret line="186" column="24" lean-forward="true" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#v-card-text#0;n#v-card#0;n#v-dialog#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2449#2520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/css/shortcut.panel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/Navbar.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Panels/PropertiesPanel/PropertiesPanel.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/utils.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MessageBox/messageBox.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#1822#1877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/engine.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4163">
+          <caret line="98" column="1" lean-forward="true" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TabsBar/TabsBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Extra.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15990">
+          <caret line="563" column="53" selection-start-line="563" selection-start-column="53" selection-end-line="563" selection-end-column="53" />
+          <folding>
+            <element signature="e#22895#22963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/state.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DialogBox/OpenOffline.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Panels/PropertiesPanel/ModuleProperty/ProjectProperty/ProjectProperty.vue" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/SimulatorStore/SimulatorStore.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulator/src/circuit.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#413#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,220 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Tax-automation" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/GST-R9C.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/GST-R9C.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name=".env file">
+      <summary usageCount="1" lastUsed="1672851313204" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1672856822157" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="7" lastUsed="1672852994697" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1672851226105" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>datas.audited_data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>finaldata</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/controllers/GST-R9C.js" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="DotEnv">
+      <summary usageCount="1" lastUsage="1672851313204" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1672856822157" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="7" lastUsage="1672852994697" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1672851226105" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Tax-automation-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2952522" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="RESTKit" order="4" weight="0.52161455" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>RESTKit</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor" timestamp="1672856472501">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1672856472501" />
+    <state x="720" y="257" width="919" height="968" key="dock-window-1" timestamp="1672853342282">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="720" y="257" width="919" height="968" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1672853342282" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/GST-R9C.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R1.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8190">
+          <caret line="267" column="20" lean-forward="true" selection-start-line="267" selection-start-column="20" selection-end-line="267" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R9C.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

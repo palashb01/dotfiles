@@ -1,0 +1,468 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Tax-automation" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/GST-R9C.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/GSTIN-Details.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/GSTIN-List.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2250" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/GST-R9C.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/GSTIN.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants/script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/constants/emp_detail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants/input.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="28092" column="26" selection-start-line="28092" selection-start-column="26" selection-end-line="28092" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name=".env file">
+      <summary usageCount="6" lastUsed="1679034534595" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1679038667799" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="8" lastUsed="1679037969635" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="50" lastUsed="1679038247099" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1678381775170" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="9" lastUsed="1679034534835" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="6" lastUsed="1679035513871" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>schema2.prisma</find>
+      <find>console.log</find>
+      <find>res.stat</find>
+      <find>][</find>
+      <find>1252</find>
+      <find>UP1442</find>
+      <find>UP043</find>
+      <find>UP1877</find>
+      <find>09</find>
+      <find>UP002</find>
+      <find>UP1252</find>
+      <find>res.</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/models</dir>
+      <dir>$PROJECT_DIR$/controllers</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/prisma/schema.prisma" />
+      <option value="$PROJECT_DIR$/prisma/generated/client2/runtime/index.js" />
+      <option value="$PROJECT_DIR$/prisma/schema2.prisma" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/models/index.js" />
+      <option value="$PROJECT_DIR$/routes/index.js" />
+      <option value="$PROJECT_DIR$/controllers/GST-R1.js" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/controllers/GST-R3B.js" />
+      <option value="$PROJECT_DIR$/controllers/GST-R9.js" />
+      <option value="$PROJECT_DIR$/controllers/GST-R9C.js" />
+      <option value="$PROJECT_DIR$/controllers/GSTIN-Details.js" />
+      <option value="$PROJECT_DIR$/models/GST-R9C.js" />
+      <option value="$PROJECT_DIR$/models/GSTIN.js" />
+      <option value="$PROJECT_DIR$/constants/out.json" />
+      <option value="$PROJECT_DIR$/constants/script.py" />
+      <option value="$PROJECT_DIR$/constants/input.js" />
+      <option value="$PROJECT_DIR$/constants/emp_details.js" />
+      <option value="$PROJECT_DIR$/controllers/GSTIN-List.js" />
+      <option value="$PROJECT_DIR$/constants/emp_detail.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="DotEnv">
+      <summary usageCount="6" lastUsage="1679034534595" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1679038667799" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1679037969635" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="50" lastUsage="1679038247099" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1678381775170" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="9" lastUsage="1679034534835" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="6" lastUsage="1679035513871" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="prisma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tax-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tax-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8466000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="7" weight="0.25" />
+      <window_info anchor="right" id="Quick Notes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="RestfulBox" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="RESTKit" order="10" show_stripe_button="false" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1679032307138">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1679032307138" />
+    <state x="647" y="203" width="836" height="668" key="find.popup" timestamp="1679034725536">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="647" y="203" width="836" height="668" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1679034725536" />
+    <state x="623" y="253" width="696" height="713" key="search.everywhere.popup" timestamp="1679038247102">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="253" width="696" height="713" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1679038247102" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prisma/generated/client2/runtime/index.js" />
+    <entry file="file://$PROJECT_DIR$/prisma/generated/client2/schema.prisma" preview="true" />
+    <entry file="file://$PROJECT_DIR$/prisma/generated/client2/runtime/edge-esm.js" />
+    <entry file="file://$PROJECT_DIR$/prisma/schema2.prisma" preview="true" />
+    <entry file="file://$PROJECT_DIR$/controllers/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R1.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7110">
+          <caret line="237" column="3" selection-start-line="237" selection-start-column="3" selection-end-line="237" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/GST-R1.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prisma/schema.prisma" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7080">
+          <caret line="236" column="30" selection-start-line="236" selection-start-column="30" selection-end-line="236" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R3B.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R9.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/GSTIN.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GST-R9C.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GSTIN-Details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/script.py" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/emp_detai.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/emp_detail.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="7" column="22" lean-forward="true" selection-end-line="56218" selection-end-column="1" />
+          <folding>
+            <element signature="e#682042#682359#0" />
+            <element signature="e#682373#682698#0" />
+            <element signature="e#682711#683038#0" />
+            <element signature="e#683051#683381#0" />
+            <element signature="e#683394#683721#0" />
+            <element signature="e#684075#684404#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/GSTIN-List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/GST-R9C.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/input.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="28092" column="26" selection-start-line="28092" selection-start-column="26" selection-end-line="28092" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/emp_detail.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

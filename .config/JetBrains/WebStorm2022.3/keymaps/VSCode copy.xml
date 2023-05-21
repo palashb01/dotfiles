@@ -1,0 +1,23 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="OpenInRightSplit">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="RecentProjectListGroup" />
+  <action id="SaveAs" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>

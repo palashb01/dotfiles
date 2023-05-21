@@ -1,0 +1,235 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add Mnemonic Bookmark...">
+        <Item>
+          <IdeaActionID>ToggleBookmarkWithMnemonic</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Add Mnemonic Bookmark...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Bookmarks">
+        <Item>
+          <IdeaActionID>ActivateBookmarksToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Bookmarks</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'Ctrl+W'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Code With Me">
+        <Item>
+          <IdeaActionID>CWMHostShowPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Y'</ShortCut>
+          <Description>Code With Me</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit">
+        <Item>
+          <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Commit</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare with Clipboard">
+        <Item>
+          <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
+          <ShortCut>'Ctrl+K, C'</ShortCut>
+          <Description>Compare with Clipboard</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>11</Count>
+          <Hit>2702</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>2</Count>
+          <Hit>17</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>182</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete…">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete…</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Disable Completions">
+        <Item>
+          <IdeaActionID>copilot.disableCopilot</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
+          <Description>Disable Completions</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Enable Completions">
+        <Item>
+          <IdeaActionID>copilot.enableCopilot</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
+          <Description>Enable Completions</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand">
+        <Item>
+          <IdeaActionID>ExpandRegion</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+]'</ShortCut>
+          <Description>Expand</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+Shift+F12'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Go to Declaration or Usages</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+;'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open...">
+        <Item>
+          <IdeaActionID>OpenFile</IdeaActionID>
+          <ShortCut>'Ctrl+O' or 'Ctrl+E'</ShortCut>
+          <Description>Open...</Description>
+          <Count>23</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Override File Type">
+        <Item>
+          <IdeaActionID>OverrideFileTypeAction</IdeaActionID>
+          <ShortCut>'Ctrl+K, M'</ShortCut>
+          <Description>Override File Type</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>3</Count>
+          <Hit>3100</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+E'</ShortCut>
+          <Description>Project</Description>
+          <Count>121</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat with Prettier">
+        <Item>
+          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
+          <Description>Reformat with Prettier</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Comma'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Context Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'Ctrl+.'</ShortCut>
+          <Description>Show Context Actions</Description>
+          <Count>4</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Split Right">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'Ctrl+\'</ShortCut>
+          <Description>Split Right</Description>
+          <Count>81</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+`'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>51</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

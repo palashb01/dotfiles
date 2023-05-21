@@ -1,0 +1,1394 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/templates/compose.hbs" />
+              <entry key="line" value="22" />
+            </attributes>
+            <option name="description" value="&lt;span class=&quot;compose_reply_button_label&quot;&gt;{{t 'Compose message' }}&lt;/span&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/styles/right_sidebar.css" />
+              <entry key="line" value="183" />
+            </attributes>
+            <option name="description" value="display: block;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/src/compose_actions.js" />
+              <entry key="line" value="438" />
+            </attributes>
+            <option name="description" value="message = recent_topics_ui.get_focused_row_message();" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/styles/settings.css" />
+              <entry key="line" value="226" />
+            </attributes>
+            <option name="description" value="width: 20%;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/src/settings_display.js" />
+              <entry key="line" value="217" />
+            </attributes>
+            <option name="description" value="$container.find(&quot;.setting_user_list_style_choice&quot;).on(&quot;click&quot;, function () {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/src/settings_display.js" />
+              <entry key="line" value="195" />
+            </attributes>
+            <option name="description" value="const data = {emojiset: $(this).val()};" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/tests/narrow.test.js" />
+              <entry key="line" value="782" />
+            </attributes>
+            <option name="description" value="You are searching for messages that belong to more than one stream, which is not possible." />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/settings.css" />
+              <entry key="line" value="497" />
+            </attributes>
+            <option name="description" value=".alert-notification {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/narrow_banner.js" />
+              <entry key="line" value="68" />
+            </attributes>
+            <option name="description" value="title: $t({defaultMessage: &quot;There are no messages here.&quot;})," />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/settings.css" />
+              <entry key="line" value="375" />
+            </attributes>
+            <option name="description" value=".user_role {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/settings.css" />
+              <entry key="line" value="154" />
+            </attributes>
+            <option name="description" value="#change_password_modal," />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/settings.css" />
+              <entry key="line" value="1814" />
+            </attributes>
+            <option name="description" value="@media (width &lt; $sm_min) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/settings.css" />
+              <entry key="line" value="1601" />
+            </attributes>
+            <option name="description" value="{" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/templates/settings/muted_topics_settings.hbs" />
+              <entry key="line" value="10" />
+            </attributes>
+            <option name="description" value="&lt;th data-sort=&quot;numeric&quot; data-sort-prop=&quot;date_muted&quot;&gt;{{t &quot;Date muted&quot; }}&lt;/th&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/frontend_tests/node_tests/people.js" />
+              <entry key="line" value="1256" />
+            </attributes>
+            <option name="description" value="people.add_active_user(steven);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/people.js" />
+              <entry key="line" value="904" />
+            </attributes>
+            <option name="description" value="export function verify_non_active_human_id(user_id) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/hotkey.js" />
+              <entry key="line" value="867" />
+            </attributes>
+            <option name="description" value="case &quot;compose_private_message&quot;:" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/reactions.js" />
+              <entry key="line" value="217" />
+            </attributes>
+            <option name="description" value="export function get_add_reaction_button(message_id) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/reactions.js" />
+              <entry key="line" value="51" />
+            </attributes>
+            <option name="description" value="set_clean_reactions(message);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/styles/zulip.css" />
+              <entry key="line" value="2604" />
+            </attributes>
+            <option name="description" value=".message_edit_form {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/buddy_list.js" />
+              <entry key="line" value="72" />
+            </attributes>
+            <option name="description" value="render_more(opts) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/pm_list_data.js" />
+              <entry key="line" value="45" />
+            </attributes>
+            <option name="description" value="const pin_to_top = false;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/stream_popover.js" />
+              <entry key="line" value="658" />
+            </attributes>
+            <option name="description" value="$(&quot;body&quot;).on(&quot;click&quot;, &quot;.pin_to_top&quot;, (e) =&gt; {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/popovers.js" />
+              <entry key="line" value="879" />
+            </attributes>
+            <option name="description" value="$(&quot;body&quot;).on(&quot;click&quot;, &quot;.view_user_profile&quot;, (e) =&gt; {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/static/js/stream_popover.js" />
+              <entry key="line" value="600" />
+            </attributes>
+            <option name="description" value="$(&quot;#stream_filters&quot;).on(&quot;click&quot;, &quot;.topic-sidebar-menu-icon&quot;, (e) =&gt; {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/web/src/settings_org.js" />
+              <entry key="line" value="705" />
+            </attributes>
+            <option name="description" value="render_settings_deactivate_realm_modal" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="zulip" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.33895537">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="true" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/templates/compose.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#2;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="true" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/src/compose_closed_ui.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="261">
+                  <caret line="68" selection-start-line="68" selection-end-line="68" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/src/recent_topics_ui.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="291">
+                  <caret line="886" selection-start-line="886" selection-end-line="886" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/src/compose.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="337">
+                  <caret line="460" column="59" selection-start-line="460" selection-start-column="59" selection-end-line="460" selection-end-column="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/src/ui_init.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="277">
+                  <caret line="667" column="25" selection-start-line="667" selection-start-column="25" selection-end-line="667" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/src/compose_actions.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="7327">
+                  <caret line="360" column="26" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/templates/compose_control_buttons.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="660">
+                  <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/src/tippyjs.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="263">
+                  <caret line="152" column="44" lean-forward="true" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
+                  <folding>
+                    <element signature="e#0#23#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/templates/message_controls.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1140">
+                  <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/templates/left_sidebar.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2790">
+                  <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/templates/compose.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="88">
+                  <caret line="84" column="83" lean-forward="true" selection-start-line="84" selection-start-column="83" selection-end-line="84" selection-end-column="83" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="268" lastUsed="1680448476906" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="19" lastUsed="1680213535340" />
+    </fileType>
+    <fileType name="EditorConfig">
+      <summary usageCount="6" lastUsed="1677557107803" />
+    </fileType>
+    <fileType name="Handlebars/Mustache">
+      <summary usageCount="563" lastUsed="1680473024615" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="12" lastUsed="1679256219654" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="16" lastUsed="1680115791550" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="1190" lastUsed="1680473502494" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="36" lastUsed="1678224328169" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="5" lastUsed="1677295812056" />
+    </fileType>
+    <fileType name="RNG Compact">
+      <summary usageCount="2" lastUsed="1679307108543" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="5" lastUsed="1679256246608" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="36" lastUsed="1680115790953" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1672741840679" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1678213793343" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="22" lastUsed="1678201917281" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>translate_emoticons</find>
+      <find>Light</find>
+      <find>Theme</find>
+      <find>User list s</find>
+      <find>lang-time-settings-status</find>
+      <find>theme</find>
+      <find>dropdown-li</find>
+      <find>modal__title dialog_heading</find>
+      <find>dialog_widget_modal</find>
+      <find>modal__container</find>
+      <find>dropdo</find>
+      <find>organization-box organization</find>
+      <find>org-settings-form</find>
+      <find>modal__content</find>
+      <find>organization-settings</find>
+      <find>simplebar-content</find>
+      <find>simplebar-content-wrapper</find>
+      <find>simplebar-scrollable-y</find>
+      <find>$option_title_width: 180px;</find>
+      <find>height: calc(100% - $settings_header_height);</find>
+      <find>overflow-x: hidden</find>
+      <find>allow_sorting_deactivated_users_list_by_email</find>
+      <find>pill_con</find>
+      <find>view_user_profile</find>
+      <find>has_image</find>
+      <find>pill-container</find>
+      <find>user_name_</find>
+      <find>bot_type</find>
+      <find>user_id</find>
+      <find>account-al</find>
+      <find>settings-section</find>
+      <find>user_details_section</find>
+      <find>account-settings-heading</find>
+      <find>alert</find>
+      <find>active</find>
+      <find>lg</find>
+      <find>user_role</find>
+      <find>Use 24-</find>
+      <find>enable-emoticon-translations</find>
+      <find>configure-emoticon-translations</find>
+      <find>configure-emoticon-translation</find>
+      <find>realm_notifications_stream_id</find>
+      <find>dropdown</find>
+      <find>.admin-realm-f</find>
+      <find>drop</find>
+      <find>.settings_sele</find>
+      <find>left_part recent_topics_focusable</find>
+      <find>recent_topic_stream</find>
+      <find>.alert</find>
+      <find>.user_name</find>
+      <find>lg_min</find>
+      <find>has_</find>
+      <find>bot_email</find>
+      <find>empty_feed_notice_main</find>
+      <find>deactivate_realm_button</find>
+      <find>confirm_deactivate_realm</find>
+      <find>render_settings_deactivate_realm_modal</find>
+      <find>alert_n</find>
+      <find>dropdown-list-widget</find>
+      <find>bot-edit-form</find>
+      <find>edit_bot_owner_container</find>
+      <find>edit_bot_modal</find>
+      <find>#settings_content</find>
+      <find>edit_bot_form</find>
+      <find>settings_content</find>
+      <find>admin-realm-form</find>
+      <find>custom_user_field_value</find>
+      <find>label</find>
+      <find>mark_all_messages_as_read</find>
+      <find>render_confirm_delete_all_drafts</find>
+      <find>add-emoji-tooltip-template</find>
+      <find>message_control_button</find>
+      <find>confirm_reacti</find>
+      <find>render_settings_reactivation_user_modal</find>
+      <find>handle_confirm</find>
+      <find>respond_button</find>
+      <find>actions_popover</find>
+      <find>action</find>
+      <find>actions_popo</find>
+      <find>.pill_cont</find>
+      <find>small_avatar_url_for</find>
+      <find>can_sort_by_email</find>
+      <find>disable_enable_spectator_access_setting</find>
+      <find>widget.set_re</find>
+      <find>widget.set_up_</find>
+      <find>filterer</find>
+      <find>alphabetic</find>
+      <find>create</find>
+      <find>numeric_sort</find>
+      <find>alphabetic_sort</find>
+      <find>sort_role</find>
+      <find>search</find>
+      <find>dropdown-title inline-block</find>
+      <find>compare_a_b</find>
+      <find>admin-bot-list</find>
+      <find>filter_for_user_settings_search</find>
+      <find>role</find>
+      <find>filter_for_user_settings_role</find>
+      <find>settings_panel</find>
+      <find>Admins, moderators and full members</find>
+      <find>owners</find>
+      <find>owner:</find>
+      <find>Administrator:</find>
+      <find>members</find>
+      <find>admins</find>
+      <find>Owners:</find>
+      <find>Owners</find>
+      <find>click</find>
+      <find>roles</find>
+      <find>owner</find>
+      <find>empty</find>
+      <find>default_banner</find>
+      <find>empty_search_narrow_title</find>
+      <find>show_empty_narrow_message</find>
+      <find>#edit_bot_o</find>
+      <find>text()</find>
+      <find>filter</find>
+      <find>No search results.</find>
+      <find>No search results</find>
+      <find>user_row</find>
+      <find>bots_list</find>
+      <find>admin_user_list</find>
+      <find>user_name</find>
+      <find>user-status-settings</find>
+      <find>nth-child</find>
+      <find>admin_users_table</find>
+      <find>user_name_column</find>
+      <find>.message-edit-timer</find>
+      <find>message_edit_form</find>
+      <find>dialog_submit_button</find>
+      <find>message-edit-timer</find>
+      <find>message-edit-tim</find>
+      <find>background-color: hsl(240, 96%, 68%);</find>
+      <find>edit_cancel_button</find>
+      <find>message_edit_save</find>
+      <find>dialog_cancel_button</find>
+      <find>media</find>
+      <find>edit-controls</find>
+      <find>1313</find>
+      <find>message-edit-feature-group</find>
+      <find>xl</find>
+      <find>ml_min</find>
+      <find>md_min</find>
+      <find>message-edit-buttons</find>
+      <find>message_edit_buttons</find>
+      <find>edit-conto</find>
+      <find>start</find>
+      <find>console.log(</find>
+      <find>console.log(&quot;compose_reply_button&quot;)</find>
+      <find>message.reply</find>
+      <find>check_pm_deactivated</find>
+      <find>update_button_for_deactivated_users</find>
+      <find>get_row_type</find>
+      <find>get_deactivated_users_name</find>
+      <find>verify</find>
+      <find>You have no group private messages with these users.</find>
+      <find>settings_panel_user_list_header</find>
+      <find>on_show_prep</find>
+      <find>resolved_topic</find>
+      <find>compose_enter_sends_popover_displayed</find>
+      <find>message_actions_popover_displayed</find>
+      <find>render_topic_sidebar_actions</find>
+      <find>sidebar-popover-mute-topic</find>
+      <find>topic_popover_stream_id</find>
+      <find>sidebar-popover-mark-topic-read</find>
+      <find>sidebar-popover-delete-topic-messages</find>
+      <find>build_move_topic_to_stream_popover</find>
+      <find>register_topic_handlers</find>
+      <find>build_topic_popover</find>
+      <find>sidebar-popover-copy-link-to-topic</find>
+      <find>sidebar-popover-move-topic-messages</find>
+      <find>conversation_time_uri</find>
+      <find>build_topic_link_clipboard</find>
+      <find>data-url</find>
+      <find>rgb(221, 222, 237)</find>
+      <find>topics_popover</find>
+      <find>elem_to</find>
+      <find>elem_to_stream_id</find>
+      <find>copy_link</find>
+      <find>copy</find>
+      <find>topic-</find>
+      <find>$t_html</find>
+      <find>register_top</find>
+      <find>console.l</find>
+      <find>get_compose_control_buttons_popover</find>
+      <find>popover_menus.</find>
+      <find>body</find>
+      <find>whale.png</find>
+      <find>unread_mention_info</find>
+      <find>unread_mention</find>
+      <find>filter-icon</find>
+      <find>fa fa-at</find>
+      <find>unread_ment</find>
+      <find>fa-at</find>
+      <find>hide_left_sidebar_menu_icon</find>
+      <find>current_topic_sidebar_elem</find>
+      <find>topic_popped</find>
+      <find>const popover_menus = mock_esm(&quot;../src/popover_menus&quot;,</find>
+      <find>hideALL</find>
+      <find>/help/read-receipts</find>
+      <find>topics_sidebar_popped</find>
+      <find>hide</find>
+      <find>user_se</find>
+      <find>hide_ti</find>
+      <find>get_popover_menu_items</find>
+      <find>200deg</find>
+      <find>time_column_max_width</find>
+      <find>zulip-icon</find>
+      <find>compose_control_buttons_container order-1</find>
+      <find>compose_control_buttons_in_popover</find>
+      <find>delegate</find>
+      <find>group</find>
+      <find>hideAll({ exclude: otherInstances });</find>
+      <find>getinstance</find>
+      <find>getin</find>
+      <find>LONG_HOVER_DELAY</find>
+      <find>createSingleton</find>
+      <find>gear-menu</find>
+      <find>settings</find>
+      <find>console.log</find>
+      <find>get_starred_messages_popover</find>
+      <find>stream_popover</find>
+      <find>console</find>
+      <find>hide_topic</find>
+      <find>hide_topic_popover</find>
+      <find>.move-</find>
+      <find>popov</find>
+      <find>topic_</find>
+      <find>build_topic</find>
+      <find>export</find>
+      <find>admin_user_list_filter</find>
+      <find>settings_panel_list_header</find>
+      <find>admin_user_list_heading</find>
+      <find>help_link_widget</find>
+      <find>who can ac</find>
+      <find>fa-question-circle-o</find>
+      <find>rgb(221, 222, 238)</find>
+      <find>topic</find>
+      <find>topic-name</find>
+      <find>data-cli</find>
+      <find>hsl(200deg, 79%, 66%)</find>
+      <find>args</find>
+      <find>formatting_button</find>
+      <find>delay</find>
+      <find>enter</find>
+      <find>compose_bottom_bottom_container</find>
+      <find>change send shortcut</find>
+      <find>default_popover_props</find>
+      <find>streams_inline</find>
+      <find>hover</find>
+      <find>top_left_recent_topics</find>
+      <find>global_fi</find>
+      <find>user-list-sidebar-menu-icon</find>
+      <find>user_sidebar_entry</find>
+      <find>topic-sidebar-menu-icon</find>
+      <find>.topic-sidebar-menu-icon</find>
+      <find>before_unread_count_padding</find>
+      <find>drafts-sidebar-menu-icon</find>
+      <find>stream_filters</find>
+      <find>zulip-icon-ellipsis-v-solid</find>
+      <find>display:</find>
+      <find>st</find>
+      <find>streams_inline_icon</find>
+      <find>display: none</find>
+      <find>zero</find>
+      <find>unread_count</find>
+      <find>bottom_left_row</find>
+      <find>stream-sidebar-menu-icon</find>
+      <find>close</find>
+      <find>enter_sends</find>
+      <find>compose-send-button</find>
+      <find>data-tooltip</find>
+      <find>search-people-tooltip-template</find>
+      <find>recipient_bar_icon</find>
+      <find>compose-stream-recipient</find>
+      <find>data-tippy-content</find>
+      <find>go to</find>
+      <find>narrow_to_compose_recipients zulip-icon zulip-icon-arrow-left-circle order-1</find>
+      <find>star_container message_control_button</find>
+      <find>data-tooltip-template-id</find>
+      <find>add-global-time-tooltip</find>
+      <find>tooltip_hotkey_hints</find>
+      <find>compose_draft_tooltip_template</find>
+      <find>compose_draft_button</find>
+      <find>compose_control_button</find>
+      <find>new topic</find>
+      <find>compose_stream_button_label</find>
+      <find>star_container</find>
+      <find>New topic</find>
+      <find>narrow_to_compose_recipients_tooltip</find>
+      <find>move-message-tooltip-template</find>
+      <find>unstar-message-tooltip-template</find>
+      <find>compose_close_and_save_tooltip_template</find>
+      <find>compose_close_tooltip_template</find>
+      <find>initialize</find>
+      <find>compose.initialize</find>
+      <find>#compose_close</find>
+      <find>compose_top_right</find>
+      <find>new_stream_message_button_tooltip</find>
+      <find>title</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>reset_page_params_user_status</replace>
+      <replace>moderator_user</replace>
+      <replace>update_reply_button_deactivated_pm</replace>
+      <replace>title_reply</replace>
+      <replace>4</replace>
+      <replace>check_pm_deactivated</replace>
+      <replace>is_human_id_deactivated</replace>
+      <replace>check_pm_is_deactivated</replace>
+      <replace>is_user_id_deactivated</replace>
+      <replace>user_ids_array</replace>
+      <replace>should_display_add_reaction_option: undefined,</replace>
+      <replace>popover_menus_data</replace>
+      <replace>No search results</replace>
+      <replace>No search results.</replace>
+      <replace>message-edit-buttons</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/templates/zerver/help</dir>
+      <dir>$PROJECT_DIR$/frontend_tests/node_tests/lib</dir>
+      <dir>$PROJECT_DIR$/zerver/views</dir>
+      <dir>$PROJECT_DIR$/static/third/bootstrap-tooltip</dir>
+      <dir>$PROJECT_DIR$/zerver</dir>
+      <dir>$PROJECT_DIR$/frontend_tests/node_tests</dir>
+      <dir>$PROJECT_DIR$/static/templates</dir>
+      <dir>$PROJECT_DIR$/static/styles</dir>
+      <dir>$PROJECT_DIR$/static/js</dir>
+      <dir>$PROJECT_DIR$/static/templates/settings</dir>
+      <dir>$PROJECT_DIR$/zerver/openapi</dir>
+      <dir>$PROJECT_DIR$/help/include</dir>
+      <dir>$PROJECT_DIR$/help</dir>
+      <dir>$PROJECT_DIR$/web/templates/confirm_dialog</dir>
+      <dir>$PROJECT_DIR$/locale/cy</dir>
+      <dir>$PROJECT_DIR$/web/tests</dir>
+      <dir>$PROJECT_DIR$/node_modules/tippy.js</dir>
+      <dir>$PROJECT_DIR$/web/templates/settings</dir>
+      <dir>$PROJECT_DIR$/web/styles</dir>
+      <dir>$PROJECT_DIR$/web/templates</dir>
+      <dir>$PROJECT_DIR$/web/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/web/src/message_edit.js" />
+      <option value="$PROJECT_DIR$/web/src/click_handlers.js" />
+      <option value="$PROJECT_DIR$/web/src/recent_topics_ui.js" />
+      <option value="$PROJECT_DIR$/web/templates/message_edit_form.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/more_topics.hbs" />
+      <option value="$PROJECT_DIR$/web/src/ui_util.ts" />
+      <option value="$PROJECT_DIR$/web/templates/recent_topic_row.hbs" />
+      <option value="$PROJECT_DIR$/web/src/read_receipts.js" />
+      <option value="$PROJECT_DIR$/web/tests/popovers.test.js" />
+      <option value="$PROJECT_DIR$/web/tests/hotkey.test.js" />
+      <option value="$PROJECT_DIR$/web/src/hotkey.js" />
+      <option value="$PROJECT_DIR$/web/styles/message_row.css" />
+      <option value="$PROJECT_DIR$/web/styles/zulip.css" />
+      <option value="$PROJECT_DIR$/web/templates/settings/add_emoji.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/add_new_custom_profile_field_form.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/add_user_group_modal.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/default_streams_list_admin.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/edit_bot_form.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/organization_profile_admin.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/add_new_bot_form.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/settings/custom_user_profile_field.hbs" />
+      <option value="$PROJECT_DIR$/node_modules/tippy.js/index.d.ts" />
+      <option value="$PROJECT_DIR$/web/src/popovers.js" />
+      <option value="$PROJECT_DIR$/web/src/muted_topics_ui.js" />
+      <option value="$PROJECT_DIR$/web/src/starred_messages.js" />
+      <option value="$PROJECT_DIR$/web/src/topic_list.js" />
+      <option value="$PROJECT_DIR$/web/tests/starred_messages.test.js" />
+      <option value="$PROJECT_DIR$/web/templates/compose_control_buttons_in_popover.hbs" />
+      <option value="$PROJECT_DIR$/web/src/list_widget.js" />
+      <option value="$PROJECT_DIR$/web/styles/settings.css" />
+      <option value="$PROJECT_DIR$/web/templates/settings/user_list_admin.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/help_link_widget.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/stream_settings/stream_types.hbs" />
+      <option value="$PROJECT_DIR$/web/src/stream_popover.js" />
+      <option value="$PROJECT_DIR$/web/styles/popovers.css" />
+      <option value="$PROJECT_DIR$/web/styles/dark_theme.css" />
+      <option value="$PROJECT_DIR$/web/templates/topic_sidebar_actions.hbs" />
+      <option value="$PROJECT_DIR$/web/src/popover_menus.js" />
+      <option value="$PROJECT_DIR$/web/templates/presence_row.hbs" />
+      <option value="$PROJECT_DIR$/web/styles/right_sidebar.css" />
+      <option value="$PROJECT_DIR$/web/styles/app_components.css" />
+      <option value="$PROJECT_DIR$/web/templates/topic_list_item.hbs" />
+      <option value="$PROJECT_DIR$/web/templates/stream_sidebar_row.hbs" />
+      <option value="$PROJECT_DIR$/web/styles/left_sidebar.css" />
+      <option value="$PROJECT_DIR$/web/templates/left_sidebar.hbs" />
+      <option value="$PROJECT_DIR$/web/src/compose.js" />
+      <option value="$PROJECT_DIR$/web/src/compose_actions.js" />
+      <option value="$PROJECT_DIR$/web/templates/compose_control_buttons.hbs" />
+      <option value="$PROJECT_DIR$/web/src/compose_closed_ui.js" />
+      <option value="$PROJECT_DIR$/web/src/tippyjs.js" />
+      <option value="$PROJECT_DIR$/web/templates/compose.hbs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="268" lastUsage="1680448476906" />
+    </language>
+    <language id="EditorConfig">
+      <summary usageCount="6" lastUsage="1677557107803" />
+    </language>
+    <language id="Handlebars">
+      <summary usageCount="563" lastUsage="1680473024615" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="16" lastUsage="1680115791550" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1190" lastUsage="1680473502494" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="36" lastUsage="1678224328169" />
+    </language>
+    <language id="RELAX-NG">
+      <summary usageCount="2" lastUsage="1679307108543" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="5" lastUsage="1679256246608" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="5" lastUsage="1677295812056" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="36" lastUsage="1680115790953" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="22" lastUsage="1678201917281" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1678213793343" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Node.js.pm_list_dom.js" executorId="Debug" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="zulip-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="865440000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" weight="0.1861979" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
+      <window_info id="Commit" order="1" weight="0.2502604" />
+      <window_info id="VcsChanges" order="2" weight="0.08932291" />
+      <window_info id="Structure" order="3" weight="0.2502604" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" weight="0.32987142" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" weight="0.32987142" />
+      <window_info anchor="bottom" id="Dependency Checker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.07270029" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.32987142" />
+      <window_info anchor="bottom" id="Duplicates" order="5" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32987142" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.2502604" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="6" weight="0.32994792" />
+      <window_info anchor="right" id="Web Inspector" order="7" weight="0.25" />
+      <window_info anchor="right" id="RESTKit" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Quick Notes" order="9" weight="0.32994792" />
+      <window_info anchor="right" id="RestfulBox" order="10" show_stripe_button="false" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Find</value>
+      <value>Quick Notes</value>
+      <value>Bookmarks</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Duplicates</value>
+      <value>Structure</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+      <value>Notifications</value>
+      <value>Stepsize</value>
+      <value>VcsChanges</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="408" width="564" height="302" key="#ESLint" timestamp="1671994251562">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="673" y="408" width="564" height="302" key="#ESLint/0.32.1920.1048@0.32.1920.1048" timestamp="1671994251562" />
+    <state x="555" y="241" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1676106861221">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="241" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1676106861221" />
+    <state x="693" y="307" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1677367084970">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="307" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1677367084970" />
+    <state x="743" y="314" width="443" height="491" key="FileChooserDialogImpl" timestamp="1677812418120">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="443" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1677812418120" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left" timestamp="1673803610186">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610186" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.1.center" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.1.left" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.1.right" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.2.bottom" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.2.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.2.center" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.2.center/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.2.left" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.2.left/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.2.right" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.2.right/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.3.bottom" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.3.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.3.center" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.3.center/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.3.left" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.3.left/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state width="1838" height="291" key="GridCell.Tab.3.right" timestamp="1673803610187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.3.right/0.32.1920.1048@0.32.1920.1048" timestamp="1673803610187" />
+    <state x="536" y="103" width="1125" height="912" key="SettingsEditor" timestamp="1680097245305">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="536" y="103" width="1125" height="912" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1680097245305" />
+    <state width="498" height="311" key="SwitcherDM" timestamp="1671889823067">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="498" height="311" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1671889823067" />
+    <state x="402" y="229" width="1432" height="676" key="find.popup" timestamp="1680475527400">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="402" y="229" width="1432" height="676" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1680475527400" />
+    <state x="624" y="249" key="run.anything.popup" timestamp="1679306764207">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="249" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1679306764207" />
+    <state x="623" y="252" width="696" height="459" key="search.everywhere.popup" timestamp="1680469157075">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="252" width="696" height="459" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1680469157075" />
+    <state x="685" y="464" width="540" height="191" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1674493854127">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="685" y="464" width="540" height="191" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1674493854127" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/tests/dispatch.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23250">
+          <caret line="775" column="58" selection-start-line="775" selection-start-column="58" selection-end-line="775" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/zulip.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="1128" column="26" selection-start-line="1128" selection-start-column="26" selection-end-line="1128" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/message_row.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/add_emoji.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/add_new_bot_form.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/add_new_custom_profile_field_form.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/add_user_group_modal.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/custom_user_profile_field.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/default_streams_list_admin.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/edit_bot_form.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/organization_profile_admin.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/tippy.js/dist/tippy.cjs.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/compose_control_buttons_popover.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/tippy.js/index.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7590">
+          <caret line="253" column="17" selection-start-line="253" selection-start-column="2" selection-end-line="253" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/gear_menu.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/stream_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="141" column="17" lean-forward="true" selection-start-line="141" selection-start-column="15" selection-end-line="141" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/tests/starred_messages.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/compose_control_buttons_in_popover.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/hotkey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="392" column="5" selection-start-line="392" selection-start-column="5" selection-end-line="392" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/muted_topics_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/popovers.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="1133" column="5" selection-start-line="1133" selection-start-column="5" selection-end-line="1133" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/starred_messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/topic_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/list_widget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4740">
+          <caret line="161" column="28" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/settings.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/stream_settings/stream_types.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/help_link_widget.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/settings/user_list_admin.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/stream_popover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/topic_sidebar_actions.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/popover_menus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="277" column="35" selection-start-line="277" selection-start-column="35" selection-end-line="277" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#158#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/popovers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/dark_theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/presence_row.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/app_components.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="583" column="1" selection-start-line="583" selection-start-column="1" selection-end-line="583" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/stream_sidebar_row.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/topic_list_item.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/right_sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="166" column="28" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/left_sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/message_controls.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/left_sidebar.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/compose_actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7327">
+          <caret line="360" column="26" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/compose_control_buttons.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/recent_topics_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="886" lean-forward="true" selection-start-line="886" selection-end-line="886" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/compose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="460" column="59" selection-start-line="460" selection-start-column="59" selection-end-line="460" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/ui_init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="667" column="25" lean-forward="true" selection-start-line="667" selection-start-column="25" selection-end-line="667" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/compose_closed_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/tippyjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="152" column="44" lean-forward="true" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/compose.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="84" column="83" lean-forward="true" selection-start-line="84" selection-start-column="83" selection-end-line="84" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

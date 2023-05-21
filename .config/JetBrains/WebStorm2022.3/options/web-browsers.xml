@@ -1,0 +1,6 @@
+<application>
+  <component name="WebBrowsersConfiguration" serverReloadMode="reload_on_change" previewReloadMode="reload_on_change">
+    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
+    <browser id="a8a0359c-6b39-4a21-b3eb-1e264ccd1a1a" name="vivaldi" family="CHROME" path="vivaldi" />
+  </component>
+</application>

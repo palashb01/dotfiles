@@ -1,0 +1,33 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CircuitVerse_projects/CircuitVerse" value="true" />
+        <entry key="$USER_HOME$/CircuitVerse_projects/cv-frontend" value="true" />
+        <entry key="$USER_HOME$/CircuitVerse_projects/cv-frontend-vue" value="true" />
+        <entry key="$USER_HOME$/Tax-automation" value="true" />
+        <entry key="$USER_HOME$/WCARL-Drone" value="true" />
+        <entry key="$USER_HOME$/WCARL-Drone-1" value="true" />
+        <entry key="$USER_HOME$/felvin.xyz" value="true" />
+        <entry key="$USER_HOME$/opentable" value="true" />
+        <entry key="$USER_HOME$/projects/Tax-automation" value="true" />
+        <entry key="$USER_HOME$/projects/WCARL-drone" value="true" />
+        <entry key="$USER_HOME$/projects/portfolio-master" value="true" />
+        <entry key="$USER_HOME$/projects/product" value="true" />
+        <entry key="$USER_HOME$/projects/tax/Tax-automation" value="true" />
+        <entry key="$USER_HOME$/projects/vue_project" value="true" />
+        <entry key="$USER_HOME$/tax-automation-frontend" value="true" />
+        <entry key="$USER_HOME$/vue-project" value="true" />
+        <entry key="$USER_HOME$/zulip" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/projects" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

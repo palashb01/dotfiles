@@ -1,0 +1,124 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono Medium" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="10.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ColorChooser.RecentColors": "221-221-221-255",
+    "FindSplitterProportion": "0.33031675",
+    "GeneralSettings.initiallyConfigured": "true",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "chatgpt\nchatgp\nchat\nch\nblack",
+    "JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL": "22",
+    "JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL": "0",
+    "JSHintOptionsTreeView.TREE_SELECTED_NODE_ID": "1",
+    "KEYMAP": "paste",
+    "MarketplacePluginsSearchHistory": "b\nblack\neditorcon\neditor\ned",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "editor\nprettier\nkeym\nfont size\nauto save",
+    "appcds.runOnSecondStart": "WS-223.8836.50-cbd62b1c3563b8baa43e54e73d01bad7ac064a2cc5d815c304e73e0333e734be",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "WS-223.8836.50",
+    "evlsprt3.223": "23",
+    "file.gist.reindex.count": "271",
+    "fileTypeChangedCounter": "87",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "15.0",
+    "git.editor.promo.dismissed": "true",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "WS-223.8836.50",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3": "43201",
+    "last_opened_file_path": "/home/palashbaderia/projects/vue_project",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "plugins.preselection.path": "/home/palashbaderia/Downloads",
+    "previousColorScheme": "_@user_Material Darker",
+    "registry.to.advanced.settings.migration.build": "WS-223.8836.50",
+    "settings.code.style.selected.tab.Vue": "Tabs and Indents",
+    "tabnine-notifications-shown-A-Pro-trial-announcement-46_1672831491176": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4",
+    "webstorm.hide.welcome.screen.promo": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/palashbaderia/Downloads/ChatGPT-2.1.6-231.EAP.zip",
+      "/home/palashbaderia/Downloads/ChatGPT-2.1.7-231.EAP.zip",
+      "/home/palashbaderia/tax_frontend/tax-automation-frontend",
+      "/home/palashbaderia/tax-automation-frontend",
+      "/home/palashbaderia/projects/felvin.xyz",
+      "/home/palashbaderia/Tax-automation",
+      "/home/palashbaderia/projects/tax_project/Tax-automation",
+      "/home/palashbaderia/opentable",
+      "/home/palashbaderia/projects/opentable_nextjs",
+      "/home/palashbaderia/projects/opentable-nextjs",
+      "/home/palashbaderia/felvin.xyz",
+      "/home/palashbaderia/projects/python",
+      "/home/palashbaderia/projects/Typescript",
+      "/home/palashbaderia/WCARL-Drone-1",
+      "/home/palashbaderia/projects/WCARL-drone",
+      "/home/palashbaderia/WCARL-Drone",
+      "/home/palashbaderia/projects/portfolio-master",
+      "/home/palashbaderia/projects/tax/Tax-automation",
+      "/home/palashbaderia/projects/Tax-automation",
+      "/home/palashbaderia/zulip",
+      "/home/palashbaderia/cv-frontend-vue",
+      "/home/palashbaderia/CircuitVerse_projects/cv-frontend-vue",
+      "/home/palashbaderia/CircuitVerse_projects/cv-frontend",
+      "/home/palashbaderia/CircuitVerse_projects/CircuitVerse",
+      "/home/palashbaderia/vue-project",
+      "/home/palashbaderia/vue_project",
+      "/home/palashbaderia/projects/product",
+      "/home/palashbaderia/projects",
+      "/home/palashbaderia/projects/vue_project"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="python-history" project-path="$USER_HOME$/projects/python" last-access-time="1677191851391" />
+      <command-history-file filename="Typescript-history" project-path="$USER_HOME$/projects/Typescript" last-access-time="1675981237393" />
+    </command-history-files>
+  </component>
+  <component name="stepsize.xml">
+    <option name="globalStorage">
+      <map>
+        <entry key="metadata">
+          <value>
+            <map>
+              <entry key="persistent" value="{&quot;anonymousId&quot;:&quot;d8a59d43a674c131db0575800f1f8b6077e3900339ba4418c555d7caba9d05ec&quot;}" />
+            </map>
+          </value>
+        </entry>
+        <entry key="onboarding">
+          <value>
+            <map>
+              <entry key="onboarding" value="{&quot;tourId&quot;:&quot;93084eaa-a2dc-473d-9ad7-7de0a09a3f67&quot;,&quot;startedAt&quot;:&quot;Tue Jan 03 04:17:44 IST 2023&quot;,&quot;step&quot;:6}" />
+              <entry key="webviewOpenedAfterInstall" value="true" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

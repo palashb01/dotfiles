@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isActiveBoldTab" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="6b1cede6:1853fb60e08:-8000" />
+    <option name="version" value="8.4.1" />
+    <option name="tabFont" value="JetBrains Mono" />
+  </component>
+</application>

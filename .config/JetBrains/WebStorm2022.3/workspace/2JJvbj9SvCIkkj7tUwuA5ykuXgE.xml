@@ -1,0 +1,246 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="product" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.editorconfig">
+              <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="376">
+                  <caret line="167" column="69" selection-start-line="167" selection-start-column="69" selection-end-line="167" selection-end-column="69" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/views/products.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="261" column="13" selection-start-line="261" selection-start-column="13" selection-end-line="261" selection-end-column="13" />
+                  <folding>
+                    <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2444">
+                  <caret line="94" selection-start-line="94" selection-end-line="94" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/food.json" preview="true">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="EditorConfig">
+      <summary usageCount="4" lastUsed="1671887203154" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1671809412213" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="19" lastUsed="1671887205593" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="4" lastUsed="1671887205732" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1671809074153" />
+    </fileType>
+    <fileType name="UML">
+      <summary usageCount="1" lastUsed="1671809966530" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1671811349484" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1671809078174" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Cart</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/views/products.html" />
+      <option value="$PROJECT_DIR$/src/app.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="EditorConfig">
+      <summary usageCount="4" lastUsage="1671887203156" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1671809412213" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="19" lastUsage="1671887205593" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1671887205732" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1671809074153" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1671809078174" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="product-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8505000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
+      <window_info id="Commit" order="1" weight="0.2502604" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="3" weight="0.2502604" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.055885263" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.12809101" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.03016815" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1671887218272">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1671887218272" />
+    <state width="1838" height="87" key="GridCell.Tab.0.bottom" timestamp="1671811168861">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="87" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1671811168861" />
+    <state width="1838" height="87" key="GridCell.Tab.0.center" timestamp="1671811168861">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="87" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1671811168861" />
+    <state width="1838" height="87" key="GridCell.Tab.0.left" timestamp="1671811168861">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="87" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1671811168861" />
+    <state width="1838" height="87" key="GridCell.Tab.0.right" timestamp="1671811168861">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="87" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1671811168861" />
+    <state x="491" y="187" width="941" height="737" key="SettingsEditor" timestamp="1671811446285">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="491" y="187" width="941" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1671811446285" />
+    <state width="498" height="339" key="SwitcherDM" timestamp="1671811379663">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="498" height="339" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1671811379663" />
+    <state x="721" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1671810861652">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="721" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1920.1048@0.32.1920.1048" timestamp="1671810861652" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sass-lint.yml" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/past-orders.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/palashbaderia/projects/product/src/app.html">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig" preview="true">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/products.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="261" column="13" selection-start-line="261" selection-start-column="13" selection-end-line="261" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2444">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/food.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

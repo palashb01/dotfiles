@@ -1,0 +1,309 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="CircuitVerse" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/users/noticed_notifications_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/system/notification_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="46" selection-start-line="46" selection-end-line="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/controllers/noticed_notifications_controller_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/builds/simulator.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="235">
+                  <caret line="40395" column="14" lean-forward="true" selection-start-line="40395" selection-start-column="14" selection-end-line="40395" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/routes.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="170" column="31" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.coveralls.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="23" selection-start-column="23" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/controllers/noticed_notifications_controller_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="597">
+                  <caret line="74" selection-start-line="74" selection-end-line="74" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="3" lastUsed="1673204989049" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="1" lastUsed="1673205049542" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="5" lastUsed="1673204988109" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="5" lastUsed="1673204989172" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="16" lastUsed="1673204989192" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delete</find>
+      <find>Untitled-Circuit</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/spec/controllers</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.coveralls.yml" />
+      <option value="$PROJECT_DIR$/spec/system/notification_spec.rb" />
+      <option value="$PROJECT_DIR$/config/routes.rb" />
+      <option value="$PROJECT_DIR$/spec/controllers/noticed_notifications_controller_spec.rb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1673204989049" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1673205049542" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1673204988109" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="16" lastUsage="1673204989192" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="5" lastUsage="1673204989172" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CircuitVerse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CircuitVerse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5827000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12786458" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.32987142" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32987142" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+      <window_info anchor="right" id="RESTKit" order="5" show_stripe_button="false" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="314" key="FileChooserDialogImpl" timestamp="1672258522008">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="733" y="314" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1672258522008" />
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor" timestamp="1671992831218">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="497" y="191" width="926" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1671992831218" />
+    <state x="603" y="167" width="847" height="897" key="find.popup" timestamp="1673205049285">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="603" y="167" width="847" height="897" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1673205049285" />
+    <state x="623" y="253" width="672" height="713" key="search.everywhere.popup" timestamp="1672252456531">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="253" width="672" height="713" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1672252456531" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users/noticed_notifications_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/system/notification_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="170" column="31" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.coveralls.yml" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/noticed_notifications_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/builds/simulator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="40395" column="14" lean-forward="true" selection-start-line="40395" selection-start-column="14" selection-end-line="40395" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

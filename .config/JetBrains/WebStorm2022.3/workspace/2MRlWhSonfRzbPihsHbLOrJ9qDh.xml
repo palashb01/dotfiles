@@ -1,0 +1,949 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/components/reusedElements/Modal.jsx" />
+              <entry key="line" value="33" />
+            </attributes>
+            <option name="description" value="&lt;/ModalWrapper&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="felvin.xyz" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/appLayouts/textgen.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="486">
+                  <caret line="376" column="33" lean-forward="true" selection-start-line="376" selection-start-column="33" selection-end-line="376" selection-end-column="33" />
+                  <folding>
+                    <element signature="e#38#89#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/createLayouts/textify.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4710">
+                  <caret line="170" column="8" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#0#72#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/apps/[id].jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4500">
+                  <caret line="170" column="31" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#38#75#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/reusedElements/popupShare.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1530">
+                  <caret line="73" column="4" selection-start-line="64" selection-start-column="2" selection-end-line="73" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#38#89#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/reusedElements/shareOuput.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2370">
+                  <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#38#89#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/gtag.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/reusedElements/shareOuput.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="152" column="4" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#38#89#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/appLayouts/textgen.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="801" column="39" selection-start-line="801" selection-start-column="39" selection-end-line="801" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#38#89#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name=".env file">
+      <summary usageCount="2" lastUsed="1678963546378" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="7" lastUsed="1677899530363" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="40" lastUsed="1677902165519" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1679650078904" />
+    </fileType>
+    <fileType name="JSX Harmony">
+      <summary usageCount="521" lastUsed="1680337932245" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="19" lastUsed="1680337932171" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1677738315051" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="31" lastUsed="1677902166839" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="12" lastUsed="1678783102387" />
+    </fileType>
+    <fileType name="TypeScript JSX">
+      <summary usageCount="88" lastUsed="1679937355344" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1677796096023" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1677902132131" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1677846459902" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Copyright 2023 WOW21, Inc. dba Felvin</find>
+      <find>team</find>
+      <find>email</find>
+      <find>address</find>
+      <find>insert</find>
+      <find>CreditValue</find>
+      <find>Add input</find>
+      <find>Add Input</find>
+      <find>AddInputField</find>
+      <find>Icon</find>
+      <find>Send prompt to G</find>
+      <find>appData</find>
+      <find>UserProfile</find>
+      <find>LoggedUser</find>
+      <find>check</find>
+      <find>Ellipse2</find>
+      <find>Pre</find>
+      <find>Send Prompt to GPT-3</find>
+      <find>Run</find>
+      <find>Generate</find>
+      <find>Addkeyword</find>
+      <find>creditDecrement</find>
+      <find>Cardcomponent</find>
+      <find>Vector</find>
+      <find>ImgCard</find>
+      <find>RunAI</find>
+      <find>PlusIcon</find>
+      <find>InputDescripition</find>
+      <find>InputFi</find>
+      <find>Steps</find>
+      <find>Dash</find>
+      <find>RunAIButton</find>
+      <find>PreviewBu</find>
+      <find>Group44</find>
+      <find>Upload</find>
+      <find>UploaderWrapper</find>
+      <find>img</find>
+      <find>margin: 10px</find>
+      <find>background</find>
+      <find>popup</find>
+      <find>popupSH</find>
+      <find>setMainImg</find>
+      <find>Popup</find>
+      <find>TagField</find>
+      <find>InputFIeld</find>
+      <find>preview</find>
+      <find>AddInputFIeld</find>
+      <find>Dashed</find>
+      <find>AddInputfield</find>
+      <find>Inputfield</find>
+      <find>Runaibutton</find>
+      <find>Button</find>
+      <find>Step 1</find>
+      <find>Middlecard</find>
+      <find>Tagfield</find>
+      <find>Addtags</find>
+      <find>Keywordheading</find>
+      <find>Previewcard</find>
+      <find>Output</find>
+      <find>Description</find>
+      <find>UploadWrapper</find>
+      <find>FileUploader</find>
+      <find>Uploaderwr</find>
+      <find>Textifyuploadbutton</find>
+      <find>image</find>
+      <find>Thumbnail</find>
+      <find>BannerTitle</find>
+      <find>DashedBorder</find>
+      <find>Apptitle</find>
+      <find>overflowx</find>
+      <find>media</find>
+      <find>Copybutton</find>
+      <find>InputField</find>
+      <find>setUrl</find>
+      <find>parentCallback</find>
+      <find>Closeicon</find>
+      <find>Heading</find>
+      <find>popupshare</find>
+      <find>handleModalCallback</find>
+      <find>ModalBody</find>
+      <find>dataToRender</find>
+      <find>setDataToRender</find>
+      <find>appsData</find>
+      <find>Frame382</find>
+      <find>ShareButton</find>
+      <find>sharebutton</find>
+      <find>doSomethingWhenbtnisClicked</find>
+      <find>Text02</find>
+      <find>TitleBox</find>
+      <find>TypeIcon</find>
+      <find>Titlebox</find>
+      <find>820px</find>
+      <find>Header</find>
+      <find>AppThumbnail</find>
+      <find>Create App</find>
+      <find>Create An App</find>
+      <find>SearchButton</find>
+      <find>SearchBarOnDeskop</find>
+      <find>SearchBar</find>
+      <find>Buy Credit</find>
+      <find>CreateAppButton</find>
+      <find>Createappbutton</find>
+      <find>Buycredits</find>
+      <find>Search for</find>
+      <find>avatar</find>
+      <find>userbuttonavatarbox</find>
+      <find>UserButtona</find>
+      <find>UserButton</find>
+      <find>TextS</find>
+      <find>StyledAppDisplay</find>
+      <find>Appname</find>
+      <find>Headerwrapper</find>
+      <find>Buy</find>
+      <find>Creditheading</find>
+      <find>Loader</find>
+      <find>Choose the type of app you want to create</find>
+      <find>sharewrapper</find>
+      <find>ImageInput</find>
+      <find>appna</find>
+      <find>margintop: &quot;20px&quot;</find>
+      <find>Modalbo</find>
+      <find>fontfami</find>
+      <find>Shareheader</find>
+      <find>Image</find>
+      <find>Tag</find>
+      <find>apptitle</find>
+      <find>modalbody</find>
+      <find>loader</find>
+      <find>Filter</find>
+      <find>marginbottom:</find>
+      <find>modalbo</find>
+      <find>dash</find>
+      <find>props</find>
+      <find>CardComponent</find>
+      <find>appheader</find>
+      <find>AppHeader</find>
+      <find>AppHeaderWrapper</find>
+      <find>width</find>
+      <find>loading</find>
+      <find>Are you sure you want to delete this app. This action is irreversible and cannot be undone.</find>
+      <find>deleteMo</find>
+      <find>setloading</find>
+      <find>overflow-x</find>
+      <find>cardcomponent</find>
+      <find>tags</find>
+      <find>Tags</find>
+      <find>copyfield</find>
+      <find>BgImage</find>
+      <find>console.log</find>
+      <find>console</find>
+      <find>dashed</find>
+      <find>PreviewButton</find>
+      <find>Link</find>
+      <find>createdAppName</find>
+      <find>id</find>
+      <find>sampleOutput</find>
+      <find>output</find>
+      <find>generateURL</find>
+      <find>Preview</find>
+      <find>setprompt</find>
+      <find>Text</find>
+      <find>Copyfield</find>
+      <find>INputfield</find>
+      <find>strong</find>
+      <find>stept</find>
+      <find>cardcom</find>
+      <find>outputcard</find>
+      <find>cardcompon</find>
+      <find>dislpay</find>
+      <find>src</find>
+      <find>250px</find>
+      <find>handleSubmit</find>
+      <find>copyToClipboard</find>
+      <find>setModal</find>
+      <find>Pill</find>
+      <find>GenerateButton</find>
+      <find>mainarea</find>
+      <find>inputfield</find>
+      <find>formarea</find>
+      <find>closePopup</find>
+      <find>modalwrapper</find>
+      <find>displayfielddiv</find>
+      <find>Sharewrapper</find>
+      <find>url</find>
+      <find>1225</find>
+      <find>oncl</find>
+      <find>GenerateWrapper</find>
+      <find>Back</find>
+      <find>Back |</find>
+      <find>Textgen</find>
+      <find>back</find>
+      <find>PillText</find>
+      <find>Popupmodal</find>
+      <find>modal</find>
+      <find>share</find>
+      <find>resultdisplayarea</find>
+      <find>background-color</find>
+      <find>copy</find>
+      <find>pill</find>
+      <find>DisplayFieldDiv</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Create an App</replace>
+      <replace>name</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/pages/apps</dir>
+      <dir>$PROJECT_DIR$/components/dragAndDrop</dir>
+      <dir>$PROJECT_DIR$/pages</dir>
+      <dir>$PROJECT_DIR$/components</dir>
+      <dir>$PROJECT_DIR$/components/createLayouts</dir>
+      <dir>$PROJECT_DIR$/components/appLayouts</dir>
+      <dir>$PROJECT_DIR$/components/reusedElements</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pages/profile/index.jsx" />
+      <option value="$PROJECT_DIR$/pages/privacy_policy/privacy_page.jsx" />
+      <option value="$PROJECT_DIR$/pages/privacy_policy/privacy.jsx" />
+      <option value="$PROJECT_DIR$/pages/privacy.jsx" />
+      <option value="$PROJECT_DIR$/pages/tou.jsx" />
+      <option value="$PROJECT_DIR$/pages/tos.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/Footer.jsx" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/components/reusedElements/pill.jsx" />
+      <option value="$PROJECT_DIR$/components/popupShare.jsx" />
+      <option value="$PROJECT_DIR$/components/popusshare/popupShare.jsx" />
+      <option value="$PROJECT_DIR$/components/popupShare/popupShare.jsx" />
+      <option value="$PROJECT_DIR$/components/dragAndDrop/ImageAdd.tsx" />
+      <option value="$PROJECT_DIR$/pages/api/thumbnailgen.js" />
+      <option value="$PROJECT_DIR$/components/dragAndDrop/FileUploader.tsx" />
+      <option value="$PROJECT_DIR$/components/dragAndDrop/style.ts" />
+      <option value="$PROJECT_DIR$/components/reusedElements/Modal.jsx" />
+      <option value="$PROJECT_DIR$/pages/create/index.tsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/Loader.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/magicLoader.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/bookques.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/docques.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/caption_generator.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/chain_models.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/clipseg_inpaint.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/image2image.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/lang_chain_chatbot.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/stable_diffusion_style.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/text2image.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/text2imagecustom.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/wordpaint.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/styledtxt2img.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/inpaint.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/santafy.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/chainner.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/bookquesCreate.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/shareModal.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/deleteModal.jsx" />
+      <option value="$PROJECT_DIR$/pages/index.tsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/header.jsx" />
+      <option value="$PROJECT_DIR$/components/mainPage.tsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/appCard.jsx" />
+      <option value="$PROJECT_DIR$/pages/create/test.jsx" />
+      <option value="$PROJECT_DIR$/components/createLayouts/textify.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/popupShare.jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/appHeader.jsx" />
+      <option value="$PROJECT_DIR$/pages/apps/[id].jsx" />
+      <option value="$PROJECT_DIR$/components/reusedElements/shareOuput.jsx" />
+      <option value="$PROJECT_DIR$/components/appLayouts/textgen.jsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="DotEnv">
+      <summary usageCount="2" lastUsage="1678963546378" />
+    </language>
+    <language id="ECMAScript 6">
+      <summary usageCount="521" lastUsage="1680337932245" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="7" lastUsage="1677899530363" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1679650078904" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="19" lastUsage="1680337932171" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1677738315051" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="31" lastUsage="1677902166839" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="12" lastUsage="1678783102387" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="88" lastUsage="1679937355344" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1677902132131" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1677846459902" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="256541000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25338542" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Stepsize" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Quick Notes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Web Inspector" order="8" weight="0.25" />
+      <window_info anchor="right" id="RestfulBox" order="9" show_stripe_button="false" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="408" width="564" height="316" key="#ESLint" timestamp="1677740948861">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="673" y="408" width="564" height="316" key="#ESLint/0.32.1920.1048@0.32.1920.1048" timestamp="1677740948861" />
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1679697677922">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1679697677922" />
+    <state x="502" y="187" width="911" height="737" key="SettingsEditor" timestamp="1680095604819">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="502" y="187" width="911" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1680095604819" />
+    <state x="516" y="259" width="879" height="711" key="find.popup" timestamp="1680258713616">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="516" y="259" width="879" height="711" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1680258713616" />
+    <state x="624" y="249" key="run.anything.popup" timestamp="1678921551318">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="249" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1678921551318" />
+    <state x="1103" y="253" width="696" height="713" key="search.everywhere.popup" timestamp="1680260760234">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1103" y="253" width="696" height="713" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1680260760234" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/playground_assets/transitionImg.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/playground_assets/type.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_document.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/profile/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7410">
+          <caret line="256" column="21" selection-start-line="256" selection-start-column="21" selection-end-line="256" selection-end-column="21" />
+          <folding>
+            <element signature="e#38#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/editLayouts/textify.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="613" lean-forward="true" selection-start-line="613" selection-end-line="613" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/profileCard.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@clerk/clerk-react/dist/components/controlComponents.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/miscComponents.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/dragAndDrop/ImageAdd.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/dragAndDrop/FileUploader.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7980">
+          <caret line="279" column="9" selection-start-line="279" selection-start-column="9" selection-end-line="279" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/thumbnailgen.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/dragAndDrop/style.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="126" column="3" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.local" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="37" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/Loader.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/caption_generator.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="162" column="39" selection-start-line="162" selection-start-column="39" selection-end-line="162" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/chain_models.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="206" column="47" selection-start-line="206" selection-start-column="47" selection-end-line="206" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/clipseg_inpaint.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="203" column="39" selection-start-line="203" selection-start-column="39" selection-end-line="203" selection-end-column="39" />
+          <folding>
+            <element signature="e#646#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/image2image.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="167" column="39" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/lang_chain_chatbot.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/stable_diffusion_style.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/text2image.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="110" column="39" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/text2imagecustom.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="171" column="39" selection-start-line="171" selection-start-column="39" selection-end-line="171" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/wordpaint.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="372" column="37" selection-start-line="372" selection-start-column="37" selection-end-line="372" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/styledtxt2img.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="201" column="37" selection-start-line="201" selection-start-column="37" selection-end-line="201" selection-end-column="37" />
+          <folding>
+            <element signature="e#725#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/inpaint.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="223" column="37" selection-start-line="223" selection-start-column="37" selection-end-line="223" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/santafy.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="345" column="37" selection-start-line="345" selection-start-column="37" selection-end-line="345" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/chainner.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="283" column="43" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/bookques.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/docques.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+          <folding>
+            <element signature="e#38#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/bookquesCreate.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5760">
+          <caret line="204" column="30" selection-start-line="204" selection-start-column="30" selection-end-line="204" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/create/index.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/create/[id].jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/create/test.jsx" />
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/shareModal.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+          <folding>
+            <element signature="e#38#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/mainPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7470">
+          <caret line="256" column="19" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/appCard.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/magicLoader.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="90" />
+          <folding>
+            <element signature="e#38#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/deleteModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="171" column="37" selection-start-line="171" selection-start-column="37" selection-end-line="171" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
+          <folding>
+            <element signature="e#38#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/pill.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/Modal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/appHeader.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="173" column="46" lean-forward="true" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
+          <folding>
+            <element signature="e#114#153#0" expanded="true" />
+            <element signature="e#5#11#0" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/createLayouts/textify.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4710">
+          <caret line="170" column="8" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/apps/[id].jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="170" column="31" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
+          <folding>
+            <element signature="e#38#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/popupShare.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="73" column="4" selection-start-line="64" selection-start-column="2" selection-end-line="73" selection-end-column="4" />
+          <folding>
+            <element signature="e#38#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gtag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/reusedElements/shareOuput.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+          <folding>
+            <element signature="e#38#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/appLayouts/textgen.jsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="376" column="33" lean-forward="true" selection-start-line="376" selection-start-column="33" selection-end-line="376" selection-end-column="33" />
+          <folding>
+            <element signature="e#38#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
